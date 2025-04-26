@@ -8,7 +8,7 @@ Hey, I’m Arshil! I’m a first-year student learning to code and exploring dif
 
 *   🖥️  See my portfolio at [My Portfolio!!](http://itz-me--psi.vercel.app)
 *   ✉️  You can contact me at [arshil1227@gmail.com](mailto:arshil1227@gmail.com)
-*   🧠  I'm learning Python and Ethical Hacking...<a href="https://www.github.com/ArshilAliAbbas" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Python and Ethical Hacking...<a href="https://www.github.com/ArshilAliAbbas" target="_blank" rel="noreferrer">
 
 
 # 💫 About Me:
