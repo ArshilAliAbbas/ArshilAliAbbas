@@ -312,20 +312,19 @@
   style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
 
-  <div align="center">
 <div align="center" style="max-width: 600px; margin: auto;">
   <table style="margin: auto; border-collapse: collapse;">
     <tr>
-      <td><img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=..." width="250" /></td>
-      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=..." width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="250" /></td>
     </tr>
     <tr>
-      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756398-7dc581c4-98f2-45fd-be2d-204d0d4e3db3.gif?jwt=..." width="250" /></td>
-      <td><img src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=..." width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756398-7dc581c4-98f2-45fd-be2d-204d0d4e3db3.gif" width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif" width="250" /></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250" /></td>
-      <td><img src="https://private-user-images.githubusercontent.com/74038190/240825384-504a2680-59a6-420e-b297-5ae89d68e377.gif?jwt=..." width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/240825384-504a2680-59a6-420e-b297-5ae89d68e377.gif" width="250" /></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="250" /></td>
@@ -337,6 +336,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
