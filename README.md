@@ -7,6 +7,21 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Executing+Dreams" />
 </p>
 
+<div style="
+  text-align: center;
+  font-family: 'Fira Code', monospace;
+  font-weight: 700;
+  font-size: 48px;
+  color: #00FFFF;
+  text-shadow:
+    0 0 5px #00FFFF,
+    0 0 10px #00FFFF,
+    0 0 20px #00FFFF,
+    0 0 40px #00FFFF;
+  margin: 40px 0;
+">
+  I am Innovative, Resilient, Passionate
+</div>
 
 
 
@@ -16,16 +31,6 @@
 
 
 
-
-
-
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
-
-<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Executing+Dreams" />
-</p>
 
 
 
