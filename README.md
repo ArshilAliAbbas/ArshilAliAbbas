@@ -1,7 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&height=80&lines=Howdy!+👋)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&height=80&lines=Howdy!+👋" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Executing+Dreams" />
 </p>
