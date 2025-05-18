@@ -9,7 +9,7 @@
 
 <img 
   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-  style="width: 100vw; height: 100px; object-fit: cover; display: block; margin: 0;" 
+  style="width: 100vw;  object-fit: cover; display: block; margin: 0;" 
 />
 
 
