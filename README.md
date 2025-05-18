@@ -234,8 +234,6 @@
 </p>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilAliAbbas&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
-</div>
 
 
 
@@ -291,6 +289,8 @@
   </tr>
 </table>
 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" />
@@ -308,6 +308,35 @@
 </div>
 
 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
+
+
+  <div align="center">
+<div align="center" style="max-width: 600px; margin: auto;">
+  <table style="margin: auto; border-collapse: collapse;">
+    <tr>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=..." width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=..." width="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/371756398-7dc581c4-98f2-45fd-be2d-204d0d4e3db3.gif?jwt=..." width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=..." width="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250" /></td>
+      <td><img src="https://private-user-images.githubusercontent.com/74038190/240825384-504a2680-59a6-420e-b297-5ae89d68e377.gif?jwt=..." width="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="250" /></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="250" /></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250" /></td>
+    </tr>
+  </table>
+</div>
 
 
 
@@ -318,14 +347,12 @@
 
 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
 
 
-
-[![Anjaliavv51's GitHub | Languages Over Time](https://stats.quine.sh/Anjaliavv51/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Anjaliavv51)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![An image of @plpanjali05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/plpanjali05)](https://holopin.io/@plpanjali05)
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzU2MTcsIm5iZiI6MTc0NzU3NTMxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEzMzUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4YjExZDIzN2VkYWJiNjdlNTM0MWJiYTJlYThiMDFjNzhjZDgwZWZkZDJhZDQyMjI5MjEzZDM5ODE0NGQ1Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aM_dZ5hi1MnEi52JR-HI2CDmACljZxcY1egimY1Vrzk"/>
 
 
 
