@@ -1,0 +1,2 @@
+mkdir -p dist
+npx github-contributions-snake > dist/github-contribution-grid-snake.svg
