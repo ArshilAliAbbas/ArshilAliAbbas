@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Executing+Dreams" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 48px;" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100%; display: block;" />
 
 
 <p align="center">
