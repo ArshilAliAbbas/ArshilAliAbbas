@@ -2,7 +2,10 @@
 
 <h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+P+.+Lakshmi+Pavananjali;DEVOPS;OPEN+SOURCE;CODING;AIML](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&height=120&lines=Hey+I%27m+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React))](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&height=120&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Dreaming+Big+%7C+Executing+Bigger" />
+</p>
+
 
 <h3 align="center">A Passionate WebDeveloper and Coding Enthusias.t <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Rocket" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /></h3>
 
