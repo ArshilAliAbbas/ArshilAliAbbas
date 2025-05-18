@@ -188,8 +188,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
   style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzU2MTcsIm5iZiI6MTc0NzU3NTMxNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEzMzUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5ZTA0MWFkNTQ1NmNmMjY3NjMwNGIxODZkNjdkODI4NDJhZjk5YWNjNjJkNjRmMjYwMWM5N2ZlMDkxNmZhOWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Q9CmG2VMqy4fJTfnZoJYTzrE-iUU3lj9OuNBGNctdTg"  />
-<img src="https://camo.githubusercontent.com/5ba164de84027722b75ce952932baea1a4054586305264972e78c3586e7a975a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746c696768742e676966"/>
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="250" />
+
+  <img src="https://camo.githubusercontent.com/5ba164de84027722b75ce952932baea1a4054586305264972e78c3586e7a975a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6879706e6f706172726f746c696768742e676966" width="250" />
+
+</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
   style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
@@ -228,11 +234,31 @@
 </p>
 
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshilAliAbbas&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</div>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
   style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
 
+<div align="center">
+
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=ArshilAliAbbas&limit=5&theme=radical&combine_all_yearly_contributions=true" 
+    alt="GitHub Contributor Stats" 
+  />
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzU2MTcsIm5iZiI6MTc0NzU3NTMxNywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEzMzUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0YzhkNWQ1NDVlNmNmOGU0OTY0ODg5YTgzMmY3ZWMxNjJmYzNiZTlhOGVlNzU4ZWJhZDdhZjdkMmNmYzUzMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ozKU__CHpgMSoTbYcZ2LlDxxZQYYz8Lb1Zf3ghbf50s"/>
+
+</div>
+
+
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  style="width: 100vw; object-fit: cover; display: block; margin: 0;" />
 
 
 <table align="center">
@@ -295,36 +321,6 @@
 
 
 
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjaliavv51&show_icons=true&locale=en&layout=compact" alt="anjaliavv51" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaliavv51&show_icons=true&locale=en" alt="anjaliavv51" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjaliavv51&" alt="anjaliavv51" /></p>
-
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" />Profile Viewer's</h4>
-  
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/anjaliavv51/count.svg?"  />
-  </div>
-
-  <div align="center">
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="60" height="60" /> My Contributions </h2>
-  <img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake.svg" alt="light">
-  <!--img src="https://github.com/Anjaliavv51/Anjaliavv51/blob/output/github-contribution-grid-snake-dark.svg" alt="dark"-->
-  </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anjaliavv51&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Anjaliavv51's GitHub | Stats](https://stats.quine.sh/Anjaliavv51/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ojas-Arora)
 
 [![Anjaliavv51's GitHub | Languages Over Time](https://stats.quine.sh/Anjaliavv51/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Anjaliavv51)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
