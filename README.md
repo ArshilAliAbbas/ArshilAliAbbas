@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&height=80&lines=Howdy!+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&height=80&lines=Howdy!%20%F0%9F%91%8B" />
 </p>
 
 <p align="center">
