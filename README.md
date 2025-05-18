@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <b style="font-size: 80px; color: #00FFFF; font-family: monospace;">
+  <b style="font-size: 100px; color: #00FFFF; font-family: monospace;">
     I am Innovative 
     <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"
          style="vertical-align: middle; margin: 0 12px; width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" alt="Innovative"/>
@@ -26,6 +26,7 @@
          style="vertical-align: middle; margin: 0 12px; width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" alt="Passionate"/>
   </b>
 </p>
+
 
 
 
