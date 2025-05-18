@@ -3,8 +3,9 @@
 <h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Dreaming+Big+%7C+Executing+Bigger" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=Hey+I'm+Arshil+Ali+Abbas;Web+Developer+%7C+AI+Learner+%7C+Future+Google+Intern;Cybersecurity+%7C+Open+Source+Contributor;React+%7C+Tailwind+%7C+Next.js+%7C+Python;Learning+Daily+%7C+Executing+Dreams" />
 </p>
+
 
 
 
