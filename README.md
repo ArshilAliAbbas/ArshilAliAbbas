@@ -217,7 +217,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ArshilAliAbbas&theme=dark" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ArshilAliAbbas&theme=dark" 
     alt="GitHub Streak" 
     width="60%" 
   />
