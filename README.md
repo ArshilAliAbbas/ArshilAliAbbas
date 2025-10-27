@@ -3,13 +3,9 @@
 
 
 
-<img 
-  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" 
-  style="width: 100vw;  object-fit: cover; display: block; margin: 0;" 
-/>
 
 
-<p align="center">
+<!-- <p align="center">
   <b style="font-size: 100px; color: #00FFFF; font-family: monospace;">
     I am Innovative 
     <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"
@@ -21,7 +17,7 @@
     <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzI3MTgsIm5iZiI6MTc0NzU3MjQxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEyNDY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhYzMzNzU3MDVhMjYyM2M1OTdmMDZiODEwZGZkMjI1NGIwYjg3NGU2NTZiYjdhN2Q2MjRjYThmMTIzYjk0NTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Z9J-XlEig7PeSPoXsprde3FyNp4VCbtygd61g1Pac40"
          style="vertical-align: middle; margin: 0 12px; width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" alt="Passionate"/>
   </b>
-</p>
+</p> -->
 
 
 
@@ -31,7 +27,7 @@
 
 
 
-<details>	
+<!-- <details>	
  <summary><b>BadGes 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -47,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
+</details> -->
 
 <section style="max-width: 700px; margin: 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00FFFF; background: #0a0a0a; padding: 30px; border-radius: 12px; box-shadow: 0 0 20px #00ffff88;">
   <h2 style="text-align: center; font-size: 2.5rem; margin-bottom: 1rem; font-weight: 700;">
