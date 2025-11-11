@@ -45,7 +45,7 @@
 </div>
 </details> -->
 
-<section style="max-width: 700px; margin: 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00FFFF; background: #0a0a0a; padding: 30px; border-radius: 12px; box-shadow: 0 0 20px #00ffff88;">
+<!-- <section style="max-width: 700px; margin: 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00FFFF; background: #0a0a0a; padding: 30px; border-radius: 12px; box-shadow: 0 0 20px #00ffff88;">
   <h2 style="text-align: center; font-size: 2.5rem; margin-bottom: 1rem; font-weight: 700;">
     Man Technologist
   </h2>
@@ -344,7 +344,7 @@
 
 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzU2MTcsIm5iZiI6MTc0NzU3NTMxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEzMzUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4YjExZDIzN2VkYWJiNjdlNTM0MWJiYTJlYThiMDFjNzhjZDgwZWZkZDJhZDQyMjI5MjEzZDM5ODE0NGQ1Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aM_dZ5hi1MnEi52JR-HI2CDmACljZxcY1egimY1Vrzk"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc1NzU2MTcsIm5iZiI6MTc0NzU3NTMxNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE4VDEzMzUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4YjExZDIzN2VkYWJiNjdlNTM0MWJiYTJlYThiMDFjNzhjZDgwZWZkZDJhZDQyMjI5MjEzZDM5ODE0NGQ1Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aM_dZ5hi1MnEi52JR-HI2CDmACljZxcY1egimY1Vrzk"/> -->
 
 
 
