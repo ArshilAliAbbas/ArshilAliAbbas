@@ -62,13 +62,17 @@
 </div>
 
 ###
-
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake-light.svg" />
   <img
-    src="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake.svg"
+    alt="Snake animation"
   />
-</p>
+</picture>
+
 
 
 ###
