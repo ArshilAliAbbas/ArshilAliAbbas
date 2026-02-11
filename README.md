@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Howdy, Itz Arshil</h1>
 
 ###
@@ -110,4 +111,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFDFC&fontAlign=50&fontAlignY=50&stroke=-&desc=That's%20IT%20Spy&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=FF2400"  />
 </div>
 
-###
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img/>
