@@ -3,51 +3,39 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="9" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="60" alt="gitlab logo"  />
-  <img width="9" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google logo"  />
-  <img width="9" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="60" alt="googlecloud logo"  />
-</div>
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="60" alt="gitlab" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="60" alt="googlecloud" />
+</p> -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,aws,azure,css,html,insomnia,intellij&perline=10&size=72" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,mongodb,pytorch,tensorflow,vercel,wordpress,nodejs,mysql,gitlab,google,googlecloud&perline=11&size=72" />
+</p>
+
+
 
 ###
 
