@@ -27,6 +27,48 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="60" alt="googlecloud" />
 </p> -->
+<!-- Languages Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><b>Java</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br><b>Rust</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><b>C</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+</tr>
+</table>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,aws,azure,css,html,insomnia,intellij&perline=10&size=72" />
