@@ -1,152 +1,122 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
-<h1 align="center">Howdy, Itz Arshil</h1>
 
-###
+<h1 align="center">Howdy, It's Arshil 👋</h1>
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="60" alt="gitlab" />
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="60" alt="google" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="60" alt="googlecloud" />
-</p> -->
-<!-- Languages Section -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFBF&center=true&vCenter=true&width=800&lines=Backend+Engineer;Cloud+%2B+Distributed+Systems;AWS+%7C+Salesforce+%7C+AI+%28Anthropic%29;Building+Scalable+%26+Secure+Systems;Always+Learning+Something+New" />
+</p>
+
+---
+
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+🚀 Backend Engineer focused on <b>Scalable Systems</b> & <b>Cloud Architecture</b><br>
+🔐 Building <b>Cybersecurity Tools</b> & low-level experiments<br>
+☁️ Exploring <b>Distributed Systems</b> & <b>Cloud-Native Architectures</b><br>
+⚡ My stack evolves faster than my README
+</p>
+
+---
+
+<h2 align="center">🧠 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="65"/>
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="65"/>
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="65"/>
+</p>
+
+<p align="center">
+☁️ AWS &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ Salesforce &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 Anthropic / LLM Systems
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFBF,100:0d1117&height=80&section=header"/>
+
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,rust,c,react,nextjs,vue,tailwind,nodejs,express,fastapi,django,postgres,mongodb,redis,mysql,docker,kubernetes,aws,gcp,azure,terraform,git,linux&perline=9" />
+</p>
+
+---
+
+<h2 align="center">🚀 Focus</h2>
+
+<p align="center">
+⚡ Distributed Systems &nbsp;&nbsp;|&nbsp;&nbsp;
+📡 Event-Driven Architecture &nbsp;&nbsp;|&nbsp;&nbsp;
+☁️ Cloud-Native Apps &nbsp;&nbsp;|&nbsp;&nbsp;
+🔐 Security Engineering
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshilAliAbbas&theme=github_dark" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshilAliAbbas&theme=github_dark&utcOffset=5.5" height="180em" />
+</div>
+
 <br/>
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<br><b>Java</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-<br><b>Rust</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br><b>C</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-</td>
-</tr>
-</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArshilAliAbbas&theme=prussian&hide_border=true" height="250"/>
 </div>
+
+---
+
+<h2 align="center">📈 Activity</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,aws,azure,css,html,insomnia,intellij&perline=10&size=72" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,mongodb,pytorch,tensorflow,vercel,wordpress,nodejs,mysql,gitlab,google,googlecloud&perline=11&size=72" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshilAliAbbas&theme=gotham&area=true" width="95%"/>
 </p>
 
+---
 
+<h2 align="center">🐍 Contribution Snake</h2>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArshilAliAbbas&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=1&date_format=M%20j%5B,%20Y%5D&order=3" height="300" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArshilAliAbbas&locale=fr&mode=daily&theme=prussian&hide_border=true&border_radius=2&date_format=M%20j%5B,%20Y%5D&order=3" height="300" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshilAliAbbas&radius=16&theme=gotham&area=true&order=5&custom_title=Devotion" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake-light.svg" />
-  <img
-    src="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake.svg"
-    alt="Snake animation"
-  />
+  <img src="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake.svg"/>
 </picture>
 
+---
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ArshilAliAbbas/ArshilAliAbbas/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
+<h2 align="center">🎧 Currently Vibing</h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/3126te3hxi5h566luogdszn2lgoi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3126te3hxi5h566luogdszn2lgoi&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=3126te3hxi5h566luogdszn2lgoi&count=4&unique=true" />
 </div>
 
-###
+---
+
+<h2 align="center">👀 Visitors</h2>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:ArshilAliAbbas?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:ArshilAliAbbas?theme=minecraft&padding=5&scale=1&align=top&pixelated=1" />
 </div>
 
-###
+---
 
-<br clear="both">
+<h2 align="center">⚡ Philosophy</h2>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFDFC&fontAlign=50&fontAlignY=50&stroke=-&desc=That's%20IT%20Spy&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=FF2400"  />
-</div>
+<p align="center">
+<i>"Build fast. Break things. Scale smarter."</i>
+</p>
 
+---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<img/>
+<h3 align="center">⚡ Code. Scale. Break Limits.</h3>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=00bfbf"/>
